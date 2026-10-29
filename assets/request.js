@@ -1,6 +1,6 @@
 (function(){
-var T={en:{add:"Add",added:"Added",addMain:"Add to request",addedMain:"Added to request",item:"item",items:"items",total:"Total",remove:"Remove",onreq:"On request",onreqN:"on request",subject:"Spa request",hello:"Hello, I would like to request the following:",name:"Name",date:"Preferred date",time:"Preferred time",notes:"Notes"},
-tr:{add:"Ekle",added:"Eklendi",addMain:"Talebe ekle",addedMain:"Talebe eklendi",item:"hizmet",items:"hizmet",total:"Toplam",remove:"Kaldır",onreq:"Fiyat için sorunuz",onreqN:"fiyatı sorulacak",subject:"Spa talebi",hello:"Merhaba, aşağıdaki spa hizmetlerini talep etmek istiyorum:",name:"Ad soyad",date:"Tercih edilen tarih",time:"Tercih edilen saat",notes:"Notlar"}};
+var T={en:{add:"Add",added:"Added",addMain:"Add and customize",addedMain:"Remove",cart:"Cart",svc:"services",item:"item",items:"items",total:"Total",remove:"Remove",onreq:"On request",onreqN:"on request",subject:"Spa request",hello:"Hello, I would like to request the following:",name:"Name",date:"Preferred date",time:"Preferred time",notes:"Notes"},
+tr:{add:"Ekle",added:"Eklendi",addMain:"Ekle ve kişiselleştir",addedMain:"Kaldır",cart:"Sepet",svc:"hizmet",item:"hizmet",items:"hizmet",total:"Toplam",remove:"Kaldır",onreq:"Fiyat için sorunuz",onreqN:"fiyatı sorulacak",subject:"Spa talebi",hello:"Merhaba, aşağıdaki spa hizmetlerini talep etmek istiyorum:",name:"Ad soyad",date:"Tercih edilen tarih",time:"Tercih edilen saat",notes:"Notlar"}};
 var lang=document.documentElement.lang==="tr"?"tr":"en",L=T[lang];
 function key(s){return "ss-request-"+s}
 function load(s){try{return JSON.parse(localStorage.getItem(key(s))||"[]")}catch(e){return[]}}
@@ -10,8 +10,9 @@ function sum(l){return l.reduce(function(a,x){return a+(x.price||0)},0)}
 function total(c,l){var n=l.filter(function(x){return x.price===null}).length,priced=l.length-n;if(!n)return money(c,sum(l));return (priced?money(c,sum(l))+" + ":"")+n+" "+L.onreqN}
 function esc(t){return String(t).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
 function paint(){
-document.querySelectorAll("[data-add]").forEach(function(b){var on=load(b.dataset.spa).some(function(x){return x.id===b.dataset.id}),main=b.classList.contains("main");b.classList.toggle("on",on);b.textContent=main?(on?L.addedMain:L.addMain):(on?L.added:L.add);b.setAttribute("aria-pressed",String(on))});
-document.querySelectorAll("[data-cart]").forEach(function(bar){var l=load(bar.dataset.cart);bar.hidden=!l.length;bar.querySelector(".n").textContent=l.length+" "+(l.length===1?L.item:L.items)+" · "+total(bar.dataset.cur,l)});
+document.querySelectorAll("[data-add]").forEach(function(b){var on=load(b.dataset.spa).some(function(x){return x.id===b.dataset.id});b.classList.toggle("on",on);b.setAttribute("aria-pressed",String(on));if(b.classList.contains("main")){b.querySelector(".l").textContent=on?L.addedMain:L.addMain}else if(!b.classList.contains("pick")){b.textContent=on?L.added:L.add}});
+document.querySelectorAll("[data-after]").forEach(function(s){s.hidden=!load(s.dataset.spa).some(function(x){return x.id===s.dataset.after})});
+document.querySelectorAll("[data-cart]").forEach(function(bar){var l=load(bar.dataset.cart);bar.hidden=!l.length;bar.querySelector(".n").textContent=L.cart+" ▸ "+total(bar.dataset.cur,l)+" ("+l.length+" "+L.svc+")"});
 var r=document.getElementById("request");if(r)request(r)}
 function request(r){var d=r.dataset,l=load(d.spa),box=r.querySelector(".list"),sent=r.querySelector("[data-sent]");
 box.innerHTML=l.map(function(x,i){return '<div class="row"><div><strong>'+esc(x.title)+'</strong>'+(x.dur?'<p class="meta">'+esc(x.dur)+'</p>':'')+'</div><span class="price">'+(x.price===null?L.onreq:money(d.cur,x.price))+'</span><button class="rm" type="button" data-rm="'+i+'" aria-label="'+L.remove+': '+esc(x.title)+'">×</button></div>'}).join("")+(l.length?'<div class="row"><div><strong>'+L.total+'</strong></div><span class="price">'+total(d.cur,l)+'</span></div>':'');
