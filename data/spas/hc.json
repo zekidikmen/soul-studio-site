@@ -1,0 +1,1769 @@
+{
+  "code": "HC",
+  "title": "Spa Soul at Hyatt Centric",
+  "hotel": {
+    "en": "Hyatt Centric Levent",
+    "tr": "Hyatt Centric Levent"
+  },
+  "city": "İstanbul",
+  "district": "Beşiktaş",
+  "country": "Türkiye",
+  "address": "Levent Mahallesi, Büyükdere Cd. No:136",
+  "currency": "€",
+  "phone": "00 90 (212) 317 77 17",
+  "email": "hc@spasoul.com",
+  "booking": "https://my.spasoul.com/dl/54886d/s/a81f45/r/%C4%B0stanbul/s/f57387/r/HC/s/51429a/r/HC",
+  "review": "https://g.page/r/Cc1K2pwtPMLMEB0/review",
+  "page": "https://zekidikmen.github.io/soul-studio-site/en/hc/",
+  "cover": "https://zekidikmen.github.io/soul-studio-site/img/m/b65b9a7b04e0c5ca.jpg",
+  "description": {
+    "en": "Spa Soul at Hyatt Centric consist of a 15-meter indoor pool surrounded by warmed loungers, a Vitality pool with swan-neck fountain, personal Jacuzzi corners, fitness and Pilates areas, male and female relaxing areas, hamam and 11 treatment rooms.",
+    "tr": "Hyatt Centric'teki Spa Soul, ısıtılmış şezlonglarla çevrili 15 metrelik kapalı havuz, kuğu boyunlu fıskiyeli vitality havuzu, kişisel jakuzi köşeleri, fitness ve pilates alanları, bay ve bayan dinlenme alanları, hamamı ve 11 bakım odası ile eksiksiz bir spa deneyimi sunuyor."
+  },
+  "etiquette": [
+    {
+      "title": {
+        "en": "What to wear",
+        "tr": "Nasıl giyinmeli"
+      },
+      "text": {
+        "en": "We will provide you with a robe and slippers to wear. During your treatment, it is recommended that you experience body services with disposable underwear. Our therapists are professionally trained and will ensure a level of comfort by appropriately draping areas of the body that are not a focus of the treatment.",
+        "tr": "SPA merkezimizi kullanacağınız zaman, rahat vakit geçirebilmeniz için size bornoz ve terlik sağlanacaktır. SPA seansı boyunca, tek kullanımlık iç çamaşır kullanmanızı tavsiye ederiz. Profesyonel terapistlerimiz uygulamanın odağı olmayan vücut bölgelerini örterek konforlu olmanızı sağlar."
+      }
+    },
+    {
+      "title": {
+        "en": "Storing valuables",
+        "tr": "Değerli eşyalar"
+      },
+      "text": {
+        "en": "Please kindly leave valuable personal items in the safe in your hotel room or one of the safe deposit boxes at the front desk of the hotel.",
+        "tr": "Değerli eşyalarınızı resepsiyonda bulunan emanet kasalarına veya otel odanızın kasasına bırakmanız rica olunur."
+      }
+    },
+    {
+      "title": {
+        "en": "Late arrival time",
+        "tr": "Geç kalma durumunda"
+      },
+      "text": {
+        "en": "We request you to check-in at least 15 minutes hour prior to your scheduled appointment; however, if you are unavoidably late, please call to notify the SPA receptionist when possible. Arriving late will simply limit the time for your treatment, as we must complete your service by the designated end-time in order to appropriately accommodate the next guest.",
+        "tr": "Randevu saatinizden en az 15 dakika önce gelmenizi rica ederiz. Geç kalacaksanız, resepsiyon görevlilerimize mümkün olduğu kadar erken haber veriniz. Belirtmek isteriz ki, SPA seansınız geç kalmanız durumunda daha kısa sürecektir. Çünkü; bir sonraki misafirimize gerekli hazırlıkları yapabilmek için hizmetinizi size ayrılan süre içinde tamamlamalıyız."
+      }
+    },
+    {
+      "title": {
+        "en": "Cell phone usage",
+        "tr": "Cep telefonu kullanımı"
+      },
+      "text": {
+        "en": "Quiet and calm are of the utmost importance to our guests that’s why we request you to turn off your cell phone and any other mobile device before entering the SPA.",
+        "tr": "SPA merkezimizde, sessiz ve huzurlu ortam misafirlerimiz için büyük önem taşımaktadır. Bunu dikkate alarak SPA merkezimize girmeden önce cep telefonunuzu kapatmanızı rica ederiz."
+      }
+    },
+    {
+      "title": {
+        "en": "Cancellation policy",
+        "tr": "Rezervasyon iptal koşulları"
+      },
+      "text": {
+        "en": "We request that all guests using the SPA extend a 6-hour cancellation notice. If less than 6-hours notice is given, the service price will be charged. \nGroup bookings have up to 48 hours to cancel appointments without penalty. 50% of the total treatment price is to be charged as a cancellation fee if the treatment is canceled between 48-6 hours before the scheduled time. Total treatment price is to be charged as a cancellation fee if the treatment is canceled less than 6 hours before the scheduled time.\nFor reservations made for package use, treatment will be deducted from the package if it is canceled less than 6 hours before the scheduled time.",
+        "tr": "SPA kullanım iptali bildirim süresi, hizmet başlamadan 6 saat öncedir. SPA kullanımına 6 saatten daha az süre kala iptalin bildirilmesi durumunda servisin ücreti tahsil edilecektir. \nGrup rezervasyonlarında rezervasyon saatinden 48 saat öncesine kadar ücretsiz iptal edilebilir. 48-6 saat arasında ücretin %50 si, 6 saatten az kala iptal edilmesi durumunda ise toplam tahsil edilir.\nPaket kullanımı için yapılan rezervasyonlarda, rezervasyon saatine 6 saatten az kala iptal edilmesi durumunda bakım paketten düşülür."
+      }
+    },
+    {
+      "title": {
+        "en": "Spa treatment selection",
+        "tr": "Spa bakımının seçimi"
+      },
+      "text": {
+        "en": "A full menu of SPA treatment offerings is listed on our menus. If you feel you would like assistance in choosing a service, we recommend calling the SPA directly and speaking to one of our knowledgeable staff members. A discussion with our reception staff can often help you decide between specific types of SPA treatment offerings depending on whether your goal is simply relaxation or more therapeutic in nature.",
+        "tr": "Tüm SPA bakım seçenekleri menümüzde yer almaktadır. Seçiminizi yaparken destek almak isterseniz, resepsiyonu arayıp çalışanlarımızdan rahatlıkla detaylı bilgi alabilirsiniz. Resepsiyon çalışanı ihtiyacınıza göre bir fikir vererek, doğru seçimi yapmanıza yardımcı olacaktır."
+      }
+    },
+    {
+      "title": {
+        "en": "Alcoholic beverages and spas",
+        "tr": "Spa ve alkollü içecek tüketimi"
+      },
+      "text": {
+        "en": "We recommend that you do not consume alcohol during or immediately befor/after your SPA treatments.",
+        "tr": "Bakım öncesinde ve sonrasında alkol kullanılmamalıdır."
+      }
+    },
+    {
+      "title": {
+        "en": "Special health considerations",
+        "tr": "Özel sağlık durumları"
+      },
+      "text": {
+        "en": "If you are pregnant or have health concerns, please be sure to notify our SPA staff when booking your treatment. Our reservationists can offer guidance as to which treatments will be the most beneficial and those that should be avoided due to physical limitations or sensitivity.",
+        "tr": "Sağlığınızla ilgili herhangi bir özel durum varsa veya hamile iseniz, lütfen bunu çalışanlarımıza haber verdiğinizden emin olunuz. Buna göre resepsiyon çalışanı özel durumunuza uygun, en faydalı uygulamayı tavsiye edip, SPA uygulama seçenekleri hakkında sizi bilgilendirecektir."
+      }
+    },
+    {
+      "title": {
+        "en": "Sauna or steam time",
+        "tr": "Sauna ve buhar odası"
+      },
+      "text": {
+        "en": "Sauna and steam are beneficial facets of the SPA experience, but should always be used in moderation. Proper usage time will vary, but there are some general guidelines that most individuals who are in good health can follow. If you are looking to warm and relax your muscles, we recommend 12-15 minutes in the dry heat of the sauna. The wet heat of the steam room is effective in opening pores and awakening the respiratory system; for this, we recommend a 5-6 minute timeframe. We require that swimming attire be worn in all co- ed sauna, and steam facilities.",
+        "tr": "Sauna ve buhar odası kullanım süresi kişiye göre değişebilir. Amacınız kaslarınızı ısıtıp yumuşatmak ise, saunanın kuru ısısında günlük olarak geçireceğiniz 12-15 dakika yeterlidir. Öte yandan, buhar odasının nemli ortamı nefes kanallarını ve cildin gözeneklerini açmak için idealdir. Bu amaçla 5-6 dakikalık kullanım yeterli olacaktır. Bay-Bayan sauna ve buhar odasında yüzme kıyafeti kullanmanız zorunludur."
+      }
+    },
+    {
+      "title": {
+        "en": "Personal preferences",
+        "tr": "Kişisel tercihleriniz"
+      },
+      "text": {
+        "en": "Whether it is the room temperature or the level of massage pressure, please express your preferences to our therapist.",
+        "tr": "Odadaki sıcaklık derecesi ve masaj baskı seviyesi ile ilgili özel tercihleriniz varsa, resepsiyon görevlilerine belirtmekten çekinmeyiniz."
+      }
+    },
+    {
+      "title": {
+        "en": "Payment",
+        "tr": "Ödeme şekli"
+      },
+      "text": {
+        "en": "We accept all major credit cards and cash. If you are a guest of the hotel, you may also charge SPA services to your room.",
+        "tr": "Yaygın kullanılan kredi kartlarını ve nakit ödemeleri kabul etmekteyiz. Eğer otelimizde misafir olarak konaklıyorsanız, SPA hizmetlerinin ücretleri oda hesabınıza eklenebilir."
+      }
+    },
+    {
+      "title": {
+        "en": "Age minimum",
+        "tr": "Minimum kullanım yaşı"
+      },
+      "text": {
+        "en": "Guests must be at least 18 years of age to experience a SPA treatment. ",
+        "tr": "SPA hizmetleri için gelen konuklarımız en az 18 yaşında olmalıdır. "
+      }
+    },
+    {
+      "title": {
+        "en": "Feedback",
+        "tr": "Geri bildirimleriniz"
+      },
+      "text": {
+        "en": "If your experience at our SPA has not met your expectations, we recommend you to speak with the SPA manager before leaving the facility. If unavailable, please feel free to call the SPA to discuss the issue at a later date",
+        "tr": "SPA deneyiminiz, beklentilerinizi karşılamadığı takdirde, tesisimizden ayrılmadan önce SPA müdürümüzü konu hakkında bilgilendirmenizi rica ederiz."
+      }
+    }
+  ],
+  "menu": [
+    {
+      "concept": "Feel Well",
+      "categories": [
+        {
+          "id": "C_HAM",
+          "title": {
+            "en": "Hammam",
+            "tr": "Hamam"
+          },
+          "treatments": [
+            {
+              "id": "H_AH",
+              "kind": "treatment",
+              "title": {
+                "en": "Aromatic",
+                "tr": "Aromatik"
+              },
+              "excerpt": {
+                "en": "Scrub with kassa and foam enriched with shea butter, honey & argan oil",
+                "tr": "Kese ve karite, bal ve argan yağıyla zenginleştirilmiş köpük "
+              },
+              "description": {
+                "en": "An invitation to fulfillment and serenity. The entire know-how of the Hammam in this unique ritual: soft steam and scrub with \"\"kassa\"\" followed by a foam massage in a cloud of foam enriched with shea butter, honey & argan oil. The skin regains its original texture.",
+                "tr": "Doyum ve dinginliğe davet... Türk Hamamının tüm gelenekleri bu eşsiz ritüelde: hafif buhar ve keseyi , karite, bal ve argan yağı içeren köpük bulutu ile uygulanan masajla tamamlar. Cilt orijinal dokusuna kavuşur."
+              },
+              "duration": 50,
+              "unit": "min",
+              "price": 115,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/70ef21c2893c2fbc.jpg",
+              "addons": [
+                "H_FOA",
+                "H_SCR"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_AICE",
+                "F_GMSI",
+                "F_SESI",
+                "F_UPPB",
+                "F_UPVB",
+                "F_GMSI",
+                "F_SESI"
+              ],
+              "pairsWith": [],
+              "packages": [
+                {
+                  "id": "P5",
+                  "sessions": 5,
+                  "total": 460
+                },
+                {
+                  "id": "P10",
+                  "sessions": 10,
+                  "total": 805
+                },
+                {
+                  "id": "P20",
+                  "sessions": 20,
+                  "total": 1380
+                }
+              ]
+            },
+            {
+              "id": "H_TRA",
+              "kind": "treatment",
+              "title": {
+                "en": "Traditional",
+                "tr": "Geleneksel"
+              },
+              "excerpt": {
+                "en": "Combination of removal of dead cells with kassa and foam massage.",
+                "tr": "Ölü deri hücrelerinden arındıran kese uygulaması ve köpük masajı"
+              },
+              "description": {
+                "en": "An ancient Ottoman body treatment including removal of dead cells from the skin’s surface with a specific glove called “kassa“ and a relaxing, cleansing soap massage.",
+                "tr": "Rahatlatıcı bir köpük masajı ve geleneksel kese uygulaması sayesinde ölü hücrelerin cilt yüzeyinden arındırılmasını sağlayan kadim bir Osmanlı vücut bakım ritüelidir."
+              },
+              "duration": 40,
+              "unit": "min",
+              "price": 100,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/cff4c5f21b33c47f.jpg",
+              "addons": [
+                "B_FC",
+                "T_FOC",
+                "B_HC",
+                "H_SCR",
+                "H_FOA",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_HAI_",
+                "F_BS_",
+                "A_MA",
+                "F_GMSI",
+                "H_BLS",
+                "F_SESI"
+              ],
+              "pairsWith": [],
+              "packages": [
+                {
+                  "id": "P5",
+                  "sessions": 5,
+                  "total": 400
+                },
+                {
+                  "id": "P10",
+                  "sessions": 10,
+                  "total": 700
+                },
+                {
+                  "id": "P20",
+                  "sessions": 20,
+                  "total": 1200
+                }
+              ]
+            }
+          ],
+          "addons": [
+            {
+              "id": "H_FOA",
+              "kind": "addon",
+              "title": {
+                "en": "Foam Massage",
+                "tr": "Köpük"
+              },
+              "excerpt": {
+                "en": "Foam Massage",
+                "tr": "Köpük"
+              },
+              "description": {
+                "en": "Relax and cleanse your body with a foam massage in the traditional Turkish bath.        ",
+                "tr": "Geleneksel Türk hamamında köpük masajı eşliğinde arınırken, gevşemenizi sağlar."
+              },
+              "duration": 30,
+              "unit": "min",
+              "price": 80,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/279adc322345fcfd.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "H_SCR",
+              "kind": "addon",
+              "title": {
+                "en": "Scrub with Kassa",
+                "tr": "Kese"
+              },
+              "excerpt": {
+                "en": "Scrub with Kassa",
+                "tr": "Kese"
+              },
+              "description": {
+                "en": "This treatment allows your skin to refresh through removal of dead cells from the skin’s surface.",
+                "tr": "Cildinizin ölü hücrelerden arınarak nefes almasını sağlar."
+              },
+              "duration": 30,
+              "unit": "min",
+              "price": 80,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/1eceb0bb195a420c.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ],
+          "upgrades": [
+            {
+              "id": "H_BLS",
+              "kind": "upgrade",
+              "title": {
+                "en": "Black Soap",
+                "tr": "Siyah Sabun"
+              },
+              "excerpt": {
+                "en": "Black Soap",
+                "tr": "Siyah Sabun"
+              },
+              "description": {
+                "en": "Upgrade your hammam treatment with traditional black soap of Charme D’orient.",
+                "tr": "Upgrade your hammam treatment with traditional black soap of Charme D’orient."
+              },
+              "duration": 1,
+              "unit": "session",
+              "price": 25,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/ef27642b771ec2e9.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ]
+        },
+        {
+          "id": "C_SIG",
+          "title": {
+            "en": "Signatures",
+            "tr": "İmza Bakımlar"
+          },
+          "treatments": [],
+          "addons": [],
+          "upgrades": [
+            {
+              "id": "A_SU",
+              "kind": "upgrade",
+              "title": {
+                "en": "Spa Suite ",
+                "tr": "Spa Suit"
+              },
+              "excerpt": {
+                "en": "Spa Suite",
+                "tr": "Spa Suit"
+              },
+              "description": {
+                "en": "Enjoy your treatments with the privacy. Ask our privacy options to the reception.",
+                "tr": "Bakımlarınızdan size özel tasarlanmış alanlarda faydalanabilirsiniz. Opsiyonlar konusunda SPA resepsiyonundan bilgi alabilirsiniz."
+              },
+              "duration": 1,
+              "unit": "session",
+              "price": 120,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/9dedec5937a02617.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ]
+        },
+        {
+          "id": "C_TIM",
+          "title": {
+            "en": "Classic",
+            "tr": "Klasik"
+          },
+          "treatments": [
+            {
+              "id": "T_ARO2",
+              "kind": "treatment",
+              "title": {
+                "en": "Aromassage",
+                "tr": "Aromasaj"
+              },
+              "excerpt": {
+                "en": "Light-medium pressured massage with fragrant oils",
+                "tr": "Aromatik yağlarla uygulanan hafif ve orta baskılı masaj"
+              },
+              "description": {
+                "en": "Aromassage uses fragrant oils extracted from herbs, flowers, and fruits to naturally enhance the benefits of a soft massage.",
+                "tr": "Şifalı bitki, çiçek ve meyvelerden özütlenen, hoş kokulu yağlar içeren bu bakım, hafif baskılı masajınızı doğal etkenlerle güzelleştirir."
+              },
+              "duration": 50,
+              "unit": "min",
+              "price": 115,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/ab6086c3455f2b30.jpg",
+              "addons": [
+                "B_FC",
+                "T_FOC",
+                "S_4H",
+                "B_HC",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_HAI_",
+                "F_BS_",
+                "A_MA",
+                "F_GMSI",
+                "F_SESI"
+              ],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "T_MYO",
+              "kind": "treatment",
+              "title": {
+                "en": "Myotherapy",
+                "tr": "Myoterapi"
+              },
+              "excerpt": {
+                "en": "Combination of deep tissue and sports massage technique",
+                "tr": "Derin baskı ve sporcu masaj tekniklerinin kombinasyonuyla uygulanan masaj"
+              },
+              "description": {
+                "en": "This invigorating massage engages the deep tissue with sports massage technique that applies strong pressure to knead and wring tension away.",
+                "tr": "Yüksek baskılı ve yoğurucu dokunuşlarla gerilimi azaltan, canlandırıcı bir etki bırakan, spor masajı ve derin doku masajı kombinasyonlarından oluşmaktadır."
+              },
+              "duration": 60,
+              "unit": "min",
+              "price": 140,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/3e3714c9f089908c.jpg",
+              "addons": [
+                "B_FC",
+                "T_FOC",
+                "S_4H",
+                "B_HC",
+                "H_SCR",
+                "H_FOA",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_HAI_",
+                "F_BS_",
+                "A_MA",
+                "F_GMSI",
+                "F_SESI"
+              ],
+              "pairsWith": [],
+              "packages": [
+                {
+                  "id": "P5",
+                  "sessions": 5,
+                  "total": 560
+                },
+                {
+                  "id": "P10",
+                  "sessions": 10,
+                  "total": 980
+                },
+                {
+                  "id": "P20",
+                  "sessions": 20,
+                  "total": 1680
+                }
+              ]
+            },
+            {
+              "id": "T_STO",
+              "kind": "treatment",
+              "title": {
+                "en": "Stockholm",
+                "tr": "Stokholm"
+              },
+              "excerpt": {
+                "en": "Extend 45 min.",
+                "tr": "45 dk upgrade"
+              },
+              "description": {
+                "en": "This most widely known form of massage uses a combination of gentle and medium pressures of Swedish massages to ease tension and stress.",
+                "tr": "İsveç masaj tekniğinin orta ve hafif şiddetli baskılarıyla, kas ağrılarını ve gerginliği azaltmaya yönelik  uygulanan klasik bir masajdır"
+              },
+              "duration": 45,
+              "unit": "min",
+              "price": 100,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/21f857f1da0fb21d.jpg",
+              "addons": [
+                "B_FC",
+                "T_FOC",
+                "S_4H",
+                "B_HC",
+                "H_SCR",
+                "H_FOA",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_HAI_",
+                "F_BS_",
+                "A_MA",
+                "F_GMSI",
+                "F_SESI"
+              ],
+              "pairsWith": [],
+              "packages": [
+                {
+                  "id": "P5",
+                  "sessions": 5,
+                  "total": 400
+                },
+                {
+                  "id": "P10",
+                  "sessions": 10,
+                  "total": 700
+                },
+                {
+                  "id": "P20",
+                  "sessions": 20,
+                  "total": 1200
+                }
+              ]
+            }
+          ],
+          "addons": [
+            {
+              "id": "T_FOC",
+              "kind": "addon",
+              "title": {
+                "en": "Focus",
+                "tr": "Bölgesel"
+              },
+              "excerpt": {
+                "en": "Massage Addon",
+                "tr": "İlave Masaj"
+              },
+              "description": {
+                "en": "Using precise massage techniques to focus on specific zones of the body such as head, neck, shoulder and back.",
+                "tr": "Baş, boyun, omuzlar ve sırt gibi vücudun belirli bölgelerine odaklanmak için uygulanan öncelikli masaj tekniklerinden oluşmaktadır."
+              },
+              "duration": 30,
+              "unit": "min",
+              "price": 70,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/40547ee99119a671.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ],
+          "upgrades": [
+            {
+              "id": "A_MAR",
+              "kind": "upgrade",
+              "title": {
+                "en": "Argan & Shea",
+                "tr": "Argan & Shea "
+              },
+              "excerpt": {
+                "en": "Argan & Shea",
+                "tr": "Argan & Shea "
+              },
+              "description": {
+                "en": "Enhance your massage with Argan Based Shea upgrade for more hydration and regenerative effects.",
+                "tr": "Daha çok nemlendirme ve canlandırma etkisi için, masajınızda argan yağı bazlı kariteyi tercih edebilirsiniz."
+              },
+              "duration": 1,
+              "unit": "session",
+              "price": 40,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/538a5d576ea28b2e.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "A_MA",
+              "kind": "upgrade",
+              "title": {
+                "en": "Aromatic Spell",
+                "tr": "Aromatik Büyü"
+              },
+              "excerpt": {
+                "en": "Aromatic Spell",
+                "tr": "Aromatik Büyü"
+              },
+              "description": {
+                "en": "Upgrade your massage with fabulous fragrances of Charme D’orient.",
+                "tr": "Charme D’orient’in efsanevi kokuları ile masajınızı bir üst seviyeye çıkartın."
+              },
+              "duration": 1,
+              "unit": "session",
+              "price": 25,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/ef27642b771ec2e9.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ]
+        },
+        {
+          "id": "C_JOU",
+          "title": {
+            "en": "Journey",
+            "tr": "Yolculuk"
+          },
+          "treatments": [
+            {
+              "id": "J_BAL",
+              "kind": "treatment",
+              "title": {
+                "en": "Bali",
+                "tr": "Bali"
+              },
+              "excerpt": {
+                "en": "Medium pressured massage with acupressure techniques",
+                "tr": "Akupresyon tekniği kullanılan orta baskılı masaj"
+              },
+              "description": {
+                "en": "The traditional Balinese massage is an ancient healing therapy that originated on the island of Bali, Indonesia. It uses a combination of gentle stretches, acupressure, and aromatherapy to stimulate the flow of blood, oxygen, and \"qi\" (energy) around the body and bring a sense of well-being, calm and deep relaxation.",
+                "tr": "Geleneksel Bali masajı, Endonezya'nın Bali adasında ortaya çıkan eski bir şifa terapisidir. Vücut çevresinde kan, oksijen ve \"qi\" (enerji) akışını uyarmak ve esenlik, sakinlik ve derin bir rahatlama duygusu getirmek için hafif esnemeler, akupresür ve aroma terapi kombinasyonunu kullanır."
+              },
+              "duration": 60,
+              "unit": "min",
+              "price": 130,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/391ee7be74743a58.jpg",
+              "addons": [
+                "B_FC",
+                "T_FOC",
+                "S_4H",
+                "B_HC",
+                "H_SCR",
+                "H_FOA",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_HAI_",
+                "F_BS_",
+                "A_MA",
+                "F_GMSI",
+                "F_SESI"
+              ],
+              "pairsWith": [],
+              "packages": [
+                {
+                  "id": "P5",
+                  "sessions": 5,
+                  "total": 520
+                },
+                {
+                  "id": "P10",
+                  "sessions": 10,
+                  "total": 910
+                },
+                {
+                  "id": "P20",
+                  "sessions": 20,
+                  "total": 1560
+                }
+              ]
+            },
+            {
+              "id": "J_HAW",
+              "kind": "treatment",
+              "title": {
+                "en": "Hawaiian Lomi Lomi",
+                "tr": "Hawaiian Lomi Lomi"
+              },
+              "excerpt": {
+                "en": "Flowing strokes using connective movements of the lower arm and elbow",
+                "tr": "Art arda gelen el ve dirsek hareketleriyle uygulanan akıcı masaj"
+              },
+              "description": {
+                "en": "According to the ancient Hawaiian \"Huna\" philosophy, there are positive forces within every human being that can solve their problems. Lomi Lomi Massage is believed to help awaken these positive energies. It is a massage that kings and statesmen have before taking important decisions such as war. It activates the decision-making mechanisms with the relaxation it provides during the massage. The effects of the massage are felt within the next two to three days, not immediately after it is applied like other massages.\n",
+                "tr": "Eski Hawaii \"Huna\" felsefesine göre, her insanın içinde sorunlarını çözebilecek pozitif güçler vardır. Lomi Lomi Masajının bu pozitif enerjileri uyandırmaya yardımcı olduğuna inanılıyor. Kralların ve devlet adamlarının savaş gibi önemli kararları almadan önce yaptırdıkları bir masajdır. Masaj sırasında sağladığı rahatlama ile karar verme mekanizmalarını harekete geçirir. Masajın etkileri, diğer masajlar gibi uygulandıktan hemen sonra değil, sonraki 2-3 gün içinde hissedilir."
+              },
+              "duration": 60,
+              "unit": "min",
+              "price": 140,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/486319f2581a0b81.jpg",
+              "addons": [
+                "B_FC",
+                "T_FOC",
+                "S_4H",
+                "B_HC",
+                "H_SCR",
+                "H_FOA",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_HAI_",
+                "F_BS_",
+                "A_MA",
+                "F_GMSI",
+                "F_SESI"
+              ],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "J_HS_",
+              "kind": "treatment",
+              "title": {
+                "en": "Hot Stone ",
+                "tr": "Sıcak Taş "
+              },
+              "excerpt": {
+                "en": "Soft-medium pressured massage, using volcanic heated stones",
+                "tr": "Isıtılmış volkanik taşlarla uygulanan hafif-orta baskılı masaj"
+              },
+              "description": {
+                "en": "The earliest use of hot stones to improve health and relaxation was over 5,000 years ago. In the present-day, this massage therapy practice is still used as; the movement of energy known as qi/chi is stimulated by placing the hot stones, and the effects of stress are eliminated, and healing is facilitated by the gentle massage. Hot stone massage also helps in releasing toxins, relieving pain, and improving circulation.\n",
+                "tr": "İyileşme ve rahatlamak için sıcak taşların en erken kullanımı 5.000 yıldan fazla bir süre önceydi. Günümüzde bu masaj terapi uygulaması halen; sıcak taşlar yerleştirilerek qi/chi olarak bilinen enerjinin uyarılmasıyla kullanılıyor. Stresin etkileri ortadan kaldırılır ve hafif masajla iyileşme desteklenir. Sıcak taş masajı ayrıca toksinlerin atılmasına, ağrının giderilmesine ve dolaşımın iyileştirilmesine yardımcı olur."
+              },
+              "duration": 75,
+              "unit": "min",
+              "price": 150,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/10021e5f6206e970.jpg",
+              "addons": [
+                "B_FC",
+                "T_FOC",
+                "S_4H",
+                "B_HC",
+                "H_SCR",
+                "H_FOA",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_HAI_",
+                "F_BS_",
+                "A_MA",
+                "F_GMSI",
+                "F_SESI"
+              ],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "J_TF_",
+              "kind": "treatment",
+              "title": {
+                "en": "Thai Fusion ",
+                "tr": "Thai Füzyon "
+              },
+              "excerpt": {
+                "en": "High pressured massage, centering on the respite of the shoulders, the hips, and the neck",
+                "tr": "Omuz, kalça ve boyun odaklı, yüksek baskılı masaj"
+              },
+              "description": {
+                "en": "A re-energizing treat for the body that combines vigorous forearm strokes that unhinge your muscles from deep-rooted stress through soothing acupressure points, the Thai Fusion Massage promises reinvigoration. Centering on the respite of the shoulders, the hips, and the neck, this dynamic treatment uses, which hold abundant benefits of Almond oil.",
+                "tr": "Yenilenme vadeden Thai Füzyon Masajı; akupunktur noktaları yoluyla, kaslarınızı derin ve köklü stresten kurtaran güçlü önkol vuruşlarını birleştiren, canlandırıcı bir bakımdır.Badem yağının faydalarını barındıran bu dinamik bakım, omuz, kalça ve boynu merkez alır."
+              },
+              "duration": 75,
+              "unit": "min",
+              "price": 150,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/911a8e4399918b58.jpg",
+              "addons": [
+                "B_FC",
+                "T_FOC",
+                "S_4H",
+                "B_HC",
+                "H_SCR",
+                "H_FOA",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_HAI_",
+                "F_BS_",
+                "A_MA",
+                "F_GMSI",
+                "F_SESI"
+              ],
+              "pairsWith": [],
+              "packages": []
+            }
+          ],
+          "addons": [],
+          "upgrades": []
+        },
+        {
+          "id": "C_RIT",
+          "title": {
+            "en": "Rituals",
+            "tr": "Ritüeller"
+          },
+          "treatments": [
+            {
+              "id": "S_AR",
+              "kind": "treatment",
+              "title": {
+                "en": "Argan Release",
+                "tr": "Argan Rahatlığı"
+              },
+              "excerpt": {
+                "en": "Pink crystals and argan shell scrub, a mineral clay mask, and hydrating with shea butter",
+                "tr": "Pembe kristaller ve argan kabuğu peelingi, mineral kil maskesi ve yoğun nemlendirici etkili karita yağı"
+              },
+              "description": {
+                "en": "A getaway into the heart of Morocco this treatment combines pink crystals & argan shell scrub, a mineral clay mask, and a massage with argan butter that will leave the skin soft with subtle scents.",
+                "tr": "Fas’ın kalbine kısa bir seyahat... Bu spa ritüeli; pembe kristaller & argan kabuğu peelingini, mineral kil maskesi ve hafif kokularla cildi yumuşatan argan yağı masajıyla birleştirir."
+              },
+              "duration": 90,
+              "unit": "min",
+              "price": 220,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/932cedb0b6fdcffe.jpg",
+              "addons": [
+                "T_FOC",
+                "S_4H",
+                "H_SCR",
+                "H_FOA"
+              ],
+              "upgrades": [
+                "F_HAI_",
+                "F_BS_",
+                "F_GMSI",
+                "F_SESI"
+              ],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "S_PH",
+              "kind": "treatment",
+              "title": {
+                "en": "Pure Hammam",
+                "tr": "Pür Hamam"
+              },
+              "excerpt": {
+                "en": "Scrub with black soap and kassa, a wrap and a regenerating massage",
+                "tr": "Siyah sabunla kese uygulaması, sarmalama bakımı ve yenileyici bir masajın birleşimi"
+              },
+              "description": {
+                "en": "All the secrets of the hammam are in this all-rounded ritual. Soft steam and scrub with black soap & kassa , a wrap with purifying ghassoul and deep hydrating with Shea butter.. This treatment is revitalizing and leaves a soft and satin-smooth skin.",
+                "tr": "Hamamın tüm sırları bu çok yönlü ritüelin içinde! Hafif buhar ve siyah sabunla kese uygulaması, arındırıcı ghassoul ile sarmalama ve yoğun nemlendirici etkili karita yağı. Bu canlandırıcı bakım yumuşak ve saten gibi pürüzsüz bir cilde sahip olmanızı sağlar."
+              },
+              "duration": 60,
+              "unit": "min",
+              "price": 170,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/194f8a5ee2e2b729.jpg",
+              "addons": [
+                "H_FOA",
+                "B_FC",
+                "B_HC"
+              ],
+              "upgrades": [
+                "F_AICE",
+                "F_GMSI",
+                "F_SESI"
+              ],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "S_SR",
+              "kind": "treatment",
+              "title": {
+                "en": "Stress Relief",
+                "tr": "Anti-Stres Ritüeli"
+              },
+              "excerpt": {
+                "en": "Combination of drainage and curative massage techniques",
+                "tr": "Drenaj ve iyileştirici masaj tekniklerinin kombinasyonu"
+              },
+              "description": {
+                "en": "The manipulation techniques of drainage and curative massage will stimulate circulation and further assist you to optimal health and wellbeing.",
+                "tr": "Drenaj ve iyileştirici masajın manipülasyon teknikleri, dolaşımı uyararak sağlık ve zindelik sağlar.\n"
+              },
+              "duration": 90,
+              "unit": "min",
+              "price": 220,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/74c4cf2435230053.jpg",
+              "addons": [],
+              "upgrades": [
+                "A_SU"
+              ],
+              "pairsWith": [],
+              "packages": []
+            }
+          ],
+          "addons": [
+            {
+              "id": "S_4H",
+              "kind": "addon",
+              "title": {
+                "en": "Four Hands Synchronized",
+                "tr": "Dört El"
+              },
+              "excerpt": {
+                "en": "Four Hands Synced",
+                "tr": "Dört El"
+              },
+              "description": {
+                "en": "Enjoy your treatment with the privilege of 4-hands...",
+                "tr": "Masajınızı tandem 4 el bakımı ile zenginleştirin..."
+              },
+              "duration": 60,
+              "unit": "min",
+              "price": 285,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/932cedb0b6fdcffe.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ],
+          "upgrades": []
+        }
+      ]
+    },
+    {
+      "concept": "Look Well",
+      "categories": [
+        {
+          "id": "C_BOD",
+          "title": {
+            "en": "Body",
+            "tr": "Vücut"
+          },
+          "treatments": [
+            {
+              "id": "B_SA",
+              "kind": "treatment",
+              "title": {
+                "en": "Slimming & Anti-Cellulite",
+                "tr": "İncelme & Anti-Selülit"
+              },
+              "excerpt": {
+                "en": "Slimming treatment using ingredients like caffeine, pink pepper, and essential oils",
+                "tr": "Kafein, pembe biber ve esans yağlar gibi içeriklerle yapılan incelme bakımı"
+              },
+              "description": {
+                "en": "This innovative treatment is the emblem of slimming thanks to caffeine, pink pepper, and a complex of essential oils.",
+                "tr": "Kafein, pembe biber ve eteri yağ çeşitlerinden oluşan bu yenilikçi bakım, inceltici ürün yelpazesinin simgesidir."
+              },
+              "duration": 60,
+              "unit": "min",
+              "price": 160,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/c923a98477316ece.jpg",
+              "addons": [
+                "B_FC",
+                "T_FOC",
+                "S_4H",
+                "B_HC",
+                "H_SCR",
+                "H_FOA",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_HAI_",
+                "F_BS_",
+                "A_MA",
+                "F_GMSI",
+                "H_BLS",
+                "F_SESI"
+              ],
+              "pairsWith": [],
+              "packages": []
+            }
+          ],
+          "addons": [
+            {
+              "id": "B_GOM",
+              "kind": "addon",
+              "title": {
+                "en": "Body Peelings",
+                "tr": "Vücut Peelingleri"
+              },
+              "excerpt": {
+                "en": "Peeling",
+                "tr": "Peeling"
+              },
+              "description": {
+                "en": "Peeling are ancient treatments that smoothen and silken the skin You can learn about the seasonal peeling options from the spa reception.",
+                "tr": "Peeling, cildi pürüzsüzleştirerek ipeksi hale getiren antik bir bakımdır. Döneme özgü peeling seçeneklerini spa resepsiyonundan öğrenebilirsiniz."
+              },
+              "duration": 30,
+              "unit": "min",
+              "price": 80,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/40105bb9dd8ac6b8.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "B_WRA",
+              "kind": "addon",
+              "title": {
+                "en": "Body Wraps",
+                "tr": "Vücut Maskeleri"
+              },
+              "excerpt": {
+                "en": "Wrap",
+                "tr": "Maske"
+              },
+              "description": {
+                "en": "You can learn about the seasonal mask options from the spa reception.",
+                "tr": "Döneme özgü maske seçeneklerini spa resepsiyonundan öğrenebilirsiniz."
+              },
+              "duration": 30,
+              "unit": "min",
+              "price": 80,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/178823f7d4ba1cf4.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "B_FC",
+              "kind": "addon",
+              "title": {
+                "en": "Foot Care",
+                "tr": "Ayak Bakımı"
+              },
+              "excerpt": {
+                "en": "Foot Care",
+                "tr": "Ayak Bakımı"
+              },
+              "description": {
+                "en": "Foot Care begins with the removal of dead cells from the skin's surface by scrub and continues with pressure applied to the feet with specific techniques stimulating reflex points for overall wellbeing.",
+                "tr": "Ayak Bakımı, scrub ile ölü hücrelerin cilt yüzeyinden uzaklaştırılmasıyla başlar ve refleks noktalarını uyaran özel tekniklerle uygulanan masajla devam eder."
+              },
+              "duration": 30,
+              "unit": "min",
+              "price": 70,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/101169f555143f39.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "B_HC",
+              "kind": "addon",
+              "title": {
+                "en": "Hand Care",
+                "tr": "El Bakımı"
+              },
+              "excerpt": {
+                "en": "Hand Care",
+                "tr": "El Bakımı"
+              },
+              "description": {
+                "en": "Hand care begins with removing dead skin cells with a soft peeling and continues with a relaxing massage, which improves finger and wrist range of motion and enhanced circulation. ",
+                "tr": "El bakımı, yumuşak bir peeling ile ölü deri hücrelerden arındırmayla başlar ve parmakların ve bileklerin hareket kabiliyetini ve kan dolaşımını artıran rahatlatıcı bir masajla devam eder."
+              },
+              "duration": 30,
+              "unit": "min",
+              "price": 70,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/192170f88add7a20.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ],
+          "upgrades": []
+        },
+        {
+          "id": "C_FAC",
+          "title": {
+            "en": "Face",
+            "tr": "Yüz"
+          },
+          "treatments": [
+            {
+              "id": "WTC_AC",
+              "kind": "treatment",
+              "title": {
+                "en": "Age Control Treatment by Terrazen",
+                "tr": "Age Control Treatment by Terrazen"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "Unveil a more youthful, radiant and revitalized complexion with Terrazen's Anti-Aging protocol. Designed to combat the visible signs of aging, this luxurious experience is created with the latest skincare technology and effective anti-aging ingredients to restore firmness, elasticity and vitality to your skin.",
+                "tr": "Terrazen'in Yaşlanma Karşıtı bu protokolüyle daha genç, ışıltılı ve canlanmış bir cildi ortaya çıkarın. Yaşlanmanın gözle görülür belirtileriyle mücadele etmek üzere tasarlanan bu lüks  deneyim; cildinize sıkılık, elastikiyet ve canlılık kazandırmak için en son cilt bakım teknolojisi ve etkin yaşlanma karşıtı bileşenlerle oluşturuldu."
+              },
+              "duration": 50,
+              "unit": "min",
+              "price": 195,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/f8a351824356df0a.jpg",
+              "addons": [
+                "B_FC",
+                "B_HC",
+                "T_FOC"
+              ],
+              "upgrades": [
+                "A_SU"
+              ],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "WTC_AR",
+              "kind": "treatment",
+              "title": {
+                "en": "Aqua Recharge Treament by Terrazen",
+                "tr": "Aqua Recharge Treament by Terrazen"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "Immerse yourself in a rejuvenating oasis with our exclusive Aqua Recharge Treatment by Terrazen. Designed to replenish and revitalize your skin, this indulgent facial experience harnesses the power of advanced skincare technology and nourishing natural ingredients to unveil a radiant complexion like never before.",
+                "tr": "Cildinizi yenilemek ve canlandırmak için tasarlanan bu nazik deneyim, gelişmiş cilt bakım teknolojisinin gücünden ve besleyici doğal bileşenlerden yararlanarak daha önce hiç olmadığı kadar ışıltılı bir cilt ortaya çıkarmak için yaratıldı."
+              },
+              "duration": 50,
+              "unit": "min",
+              "price": 189,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/02b8e0c8beff667d.jpg",
+              "addons": [
+                "B_FC",
+                "B_HC",
+                "T_FOC"
+              ],
+              "upgrades": [
+                "A_SU"
+              ],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "WTC_BT",
+              "kind": "treatment",
+              "title": {
+                "en": "Brightening Treatment by Forlle'd Patented Platinum\t\t\t\t\t",
+                "tr": "Brightening Treatment by Forlle'd Patented Platinum\t\t\t\t\t"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "Low molecular science of Forlle'd Patented Platinum is the most potent antioxidant solution in the industry. This unique treatment offering a transformative journey towards a brighter, firmer, and more radiant complexion. Let your skin to experience uniqueness of platinum molecules. Ideal for uneven tone , dull and pigmented skin. ",
+                "tr": "Forlle'd'in patentlenmiş düşük moleküler boyutlu Platinum çözümü, olabilecek en güçlü antioksidan bakımını vaat eder. Daha parlak, sıkı ve ışıltılı bir cilt yolculuğu için tasarlanan bu dönüştürücü protokol, pigmente olmuş ciltler için cilt tonunu eşitlemek amacıyla üretildi."
+              },
+              "duration": 50,
+              "unit": "min",
+              "price": 267,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/b1e8006432e2650d.jpg",
+              "addons": [
+                "B_GOM",
+                "B_WRA",
+                "T_FOC",
+                "B_FC",
+                "B_HC"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_BS_",
+                "F_HAI_"
+              ],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "WTC_CAS",
+              "kind": "treatment",
+              "title": {
+                "en": "Calming and Soothing Treatment by Forlle'd Sensiskin",
+                "tr": "Calming and Soothing Treatment by Forlle'd Sensiskin"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "Experience a lifeline of relief for your skin with Forlle'd's Emergency Aid Treatment, featuring the transformative NeuroCosmetic Solution. Crafted to soften, soothe, and calm even the most distressed skin, this specialized therapy is your go-to remedy for sunburn, irritation, and reactivity.",
+                "tr": "En hassas ciltleri dahi yumuşatmak, rahatlatmak ve sakinleştirmek için hazırlanmış bu özel terapi; güneş yanığı, tahriş ve reaksiyon gösteren ciltler için nöro-kozmetiğin dönüştürücü gücüyle tasarlandı."
+              },
+              "duration": 50,
+              "unit": "min",
+              "price": 254,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/081c9fc22ec5c789.jpg",
+              "addons": [
+                "B_GOM",
+                "B_WRA",
+                "H_FOA",
+                "T_FOC",
+                "B_FC",
+                "B_HC",
+                "H_SCR"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_BS_",
+                "F_HAI_"
+              ],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "WTC_IHT",
+              "kind": "treatment",
+              "title": {
+                "en": "Intensive Hydration Treatment by Forlle'd Hyalogy",
+                "tr": "Intensive Hydration Treatment by Forlle'd Hyalogy"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "Forlle'd advanced Hyalogy line delivers unparalleled hydration deep into the skin's layers, restoring moisture balance and promoting a plump, dewy complexion. Feel the luxurious textures of our formulations envelop your skin, quenching its thirst and leaving it irresistibly soft and supple. Perfect fit for dehydrated, tired and dry skin.",
+                "tr": "Forlle'd'in gelişmiş Hyalogy serisi, cildin derin katmanlarını  nemlendirerek dolgun ve canlanmış bir cilt sağlar. Nemini kaybetmiş, yorgun ve kuru ciltler için birlikte en iyi şekilde çalışacak Forlle'd ürünlerinin itinalı seçimiyle hazırlanan bu protokol, adının hakkını veriyor."
+              },
+              "duration": 50,
+              "unit": "min",
+              "price": 260,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/7e13fa86e1955eae.jpg",
+              "addons": [
+                "B_GOM",
+                "B_WRA",
+                "T_FOC",
+                "B_FC",
+                "B_HC"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_BS_",
+                "F_HAI_"
+              ],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "WTC_LAA",
+              "kind": "treatment",
+              "title": {
+                "en": "Lifting and Anti Aging by Forlle'd Redify",
+                "tr": "Lifting and Anti Aging by Forlle'd Redify"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "Discover Forlle'd's Redify line, a global leader in anti-aging solutions. Infused with biomimetic peptides and potent anti-aging agents, this powerhouse collection delivers immediate results, leaving your skin visibly firmed and youthful. Unlock the secret to timeless beauty with Forlle'd Redify.",
+                "tr": "Biyomimetik peptitler ve güçlü yaşlanma karşıtı aktiflerle zenginleştirilmiş bu güçlü koleksiyon, anında sonuçlar vererek cildinizin gözle görülür şekilde sıkılaşmış ve genç kalmasını sağlar. "
+              },
+              "duration": 50,
+              "unit": "min",
+              "price": 286,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/20aca3c4951319a1.jpg",
+              "addons": [
+                "B_GOM",
+                "B_WRA",
+                "T_FOC",
+                "B_FC",
+                "B_HC"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_BS_",
+                "F_HAI_"
+              ],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "WTC_PST",
+              "kind": "treatment",
+              "title": {
+                "en": "Porcelean Skin Treatment by K-beauty Collection",
+                "tr": "Porcelean Skin Treatment by K-beauty Collection"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "Experience the beauty of Korean-perfect skin with our Porcelain Skin Treatment by K-beauty Collection, where every step is meticulously crafted to unveil your skin's natural luminosity and radiance.",
+                "tr": "Cildinizin doğal parlaklığını ortaya çıkarmak için Kore Cilt Bakım mantalitesinin her adımından esinlenen bu protokol, porselen görünümüdeki Kore Cilt güzelliğini hedefliyor."
+              },
+              "duration": 50,
+              "unit": "min",
+              "price": 195,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/28fa07bacaec32e1.jpg",
+              "addons": [
+                "T_FOC",
+                "B_FC",
+                "B_HC"
+              ],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "WTC_PTJ",
+              "kind": "treatment",
+              "title": {
+                "en": "Purifying Treatment with Japanese Double Cleansing System\t\t\t\t\t\t\t",
+                "tr": "Purifying Treatment with Japanese Double Cleansing System\t\t\t\t\t\t\t"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "This signature treatment is carefully crafted to rejuvenate your skin, drawing upon the ancient wisdom of Japanese skincare rituals and cutting-edge scientific innovation. Experience the unparalleled power of our double cleansing system, expertly designed to purify and detoxify your skin, leaving it refreshed, radiant, and renewed. Suitable for dull, stressed and prone to blemish skin.",
+                "tr": "Japon cilt bakımı ritüellerinin kadim bilgeliğini en son bilimsel yeniliklerle harmanlayan bu özel terapi, cildinizi gençleştirmek arındırmak ve detoksifiye etmek için tasarlandı. Tazelenmiş ve ışıldayan bir cilt için Asya'nın çift temizleme adımıyla güçlendirilen bu deneyim, donuk, stresli ve lekelenmeye eğilimli ciltler için tercih edilebilir."
+              },
+              "duration": 50,
+              "unit": "min",
+              "price": 260,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/4f17a6984d9f2287.jpg",
+              "addons": [
+                "B_GOM",
+                "B_WRA",
+                "T_FOC",
+                "B_FC",
+                "B_HC"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "F_BS_",
+                "F_HAI_"
+              ],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "WTC_DT",
+              "kind": "treatment",
+              "title": {
+                "en": "Welcometoclub Detox Treatment",
+                "tr": "Welcometoclub Detox Treatment"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "Embark on a journey to detoxify and purify your skin with our exclusive Welcometoclub Detox Treatment. Designed to eliminate impurities and revitalize your complexion, this luxurious facial experience harnesses the power of advanced skincare technology and detoxifying ingredients to reveal a refreshed, radiant glow. This treatment combines multiple brands to assure perfect detox program.",
+                "tr": "Cildinizi detoksifiye etmek ve arındırıcı bir yolculuğa çıkarmak için dizayn edilen Welcometoclub Detoks Bakımı, cildinizi derinlemesine temizlerken aynı anda canlandırmak için gelişmiş cilt bakım teknolojisi ve detoksifiye edici bileşenlerin gücünden yararlandı."
+              },
+              "duration": 50,
+              "unit": "min",
+              "price": 195,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/fa13ae6c5e211112.jpg",
+              "addons": [
+                "T_FOC",
+                "B_FC",
+                "B_HC"
+              ],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ],
+          "addons": [],
+          "upgrades": [
+            {
+              "id": "F_AICE",
+              "kind": "upgrade",
+              "title": {
+                "en": "Ameon Ice Ritual For Facials",
+                "tr": "Ameon Ice Ritual For Facials"
+              },
+              "excerpt": {
+                "en": "Ameon Ice Ritual For Facials",
+                "tr": "Ameon Ice Ritual For Facials"
+              },
+              "description": {
+                "en": "An invigorating ice therapy added to your existing facial, using specially formulated ice cubes to instantly refresh the skin. The cold application tightens pores, boosts circulation, and enhances the absorption of products applied afterwards. The perfect touch for a fresh and revitalized complexion.",
+                "tr": "Mevcut cilt bakımınıza eklenen bu buz terapisi, özel formüle edilmiş buz küplerinin ferahlatıcı dokunuşu ile cildinizi anında canlandırır. Soğuk uygulama, gözenekleri sıkılaştırır, dolaşımı hızlandırır ve bakım sonrası ürünlerin daha derine nüfuz etmesini sağlar. Taptaze ve canlı bir görünüm için mükemmel bir dokunuş."
+              },
+              "duration": 1,
+              "unit": "session",
+              "price": 35,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/da96dba1de7d96c0.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "F_GMSI",
+              "kind": "upgrade",
+              "title": {
+                "en": "Glow Manifesto Skin Icing Ritual",
+                "tr": "Glow Manifesto Skin Icing Ritual"
+              },
+              "excerpt": {
+                "en": "Glow Manifesto Skin Icing Ritual",
+                "tr": "Glow Manifesto Skin Icing Ritual"
+              },
+              "description": {
+                "en": "The refreshing effect of cold therapy boosts circulation, tightens pores, and instantly energizes the skin. A nourishing serum and moisturizer follow, leaving your complexion smooth, radiant, and refreshed.",
+                "tr": "Soğuk terapinin ferahlatıcı etkisi, ciltte kan dolaşımını artırır, gözenekleri sıkılaştırır ve anında canlılık kazandırır. Takip eden besleyici serum ve nemlendirici adımı ile cildiniz pürüzsüz, aydınlık ve tazelenmiş hisseder."
+              },
+              "duration": 1,
+              "unit": "session",
+              "price": 50,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/67e1960bc76f0d7e.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "F_SESI",
+              "kind": "upgrade",
+              "title": {
+                "en": "Supreme Energy Skin Icing Ritual",
+                "tr": "Supreme Energy Skin Icing Ritual"
+              },
+              "excerpt": {
+                "en": "Supreme Energy Skin Icing Ritual",
+                "tr": "Supreme Energy Skin Icing Ritual"
+              },
+              "description": {
+                "en": "The invigorating cold therapy, infused with minerals and active ingredients, awakens the skin, improves elasticity, and enhances its healthy glow. Completed with serum and moisturizer to replenish the skin’s energy reserves.",
+                "tr": "Soğuk terapinin canlandırıcı etkisi, mineral ve aktif içerikler ile birleşerek cildi uyandırır, esnekliğini artırır ve sağlıklı bir ışıltı verir. Serum ve nemlendirici ile tamamlanarak cildin enerji rezervlerini yeniden doldurur."
+              },
+              "duration": 1,
+              "unit": "session",
+              "price": 50,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/ba2c4b4d279b0e2d.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "F_BS_",
+              "kind": "upgrade",
+              "title": {
+                "en": "Beard Care with Argan ",
+                "tr": "Argan Sakal Bakımı "
+              },
+              "excerpt": {
+                "en": "Beard Care with Argan",
+                "tr": "Argan Sakal Bakımı"
+              },
+              "description": {
+                "en": "Enhance your treatment by adding argan based beard care by Charme D’orient.",
+                "tr": "Charme D'orient'in argan bazlı sakal bakımını ekleyerek bakımınızı zenginleştirin."
+              },
+              "duration": 1,
+              "unit": "session",
+              "price": 40,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/68496c594277f390.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "F_HAI_",
+              "kind": "upgrade",
+              "title": {
+                "en": "Hair Care with Argan ",
+                "tr": "Argan Saç Bakımı "
+              },
+              "excerpt": {
+                "en": "Hair Care with Argan",
+                "tr": "Argan Saç Bakımı"
+              },
+              "description": {
+                "en": "Enhance your treatment by adding argan based hair care by Charme D’orient.",
+                "tr": "Charme D'orient'in argan bazlı saç bakımını ekleyerek bakımınızı zenginleştirin."
+              },
+              "duration": 1,
+              "unit": "session",
+              "price": 40,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/22289759828860e1.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "F_UPPB",
+              "kind": "upgrade",
+              "title": {
+                "en": "Prime Boost",
+                "tr": "Prime Boost"
+              },
+              "excerpt": {
+                "en": "Prime Boost",
+                "tr": "Prime Boost"
+              },
+              "description": {
+                "en": "It is an upgrade option that aims to bring the skin to its best form, offering firmness and an anti-aging effect.",
+                "tr": "Cildi en iyi formuna taşımayı hedefleyen, sıkılık ve yaşlanma karşıtı etki sunan bir upgrade seçeneğidir"
+              },
+              "duration": 1,
+              "unit": "session",
+              "price": 46,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/02b8e0c8beff667d.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "F_UPVB",
+              "kind": "upgrade",
+              "title": {
+                "en": "Vital Boost",
+                "tr": "Vital Boost"
+              },
+              "excerpt": {
+                "en": "Vital Boost",
+                "tr": "Vital Boost"
+              },
+              "description": {
+                "en": "It is an upgrade option that provides the skin with essential moisture and energy support, increasing vitality levels.",
+                "tr": "Cilde temel nem ve enerji desteği sağlayarak canlılık seviyesini artıran bir upgrade seçeneğidir."
+              },
+              "duration": 1,
+              "unit": "session",
+              "price": 46,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/7e13fa86e1955eae.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "concept": "Move Well",
+      "categories": [
+        {
+          "id": "C_FIT",
+          "title": {
+            "en": "Memberships & Activities",
+            "tr": "Üyelikler & Aktiviteler"
+          },
+          "treatments": [
+            {
+              "id": "DUSE",
+              "kind": "treatment",
+              "title": {
+                "en": "Daily Use",
+                "tr": "Günlük Giriş"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "",
+                "tr": ""
+              },
+              "duration": 1,
+              "unit": "day",
+              "price": 50,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/38c93321d4792f41.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "PLAN_1",
+              "kind": "treatment",
+              "title": {
+                "en": "Fitness Membership",
+                "tr": "Fitness Üyeliği"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "",
+                "tr": ""
+              },
+              "duration": 1,
+              "unit": "month",
+              "price": 300,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/a4fb22890996ff60.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "PLAN_12",
+              "kind": "treatment",
+              "title": {
+                "en": "Fitness Membership (12 Month)",
+                "tr": "Fitness Üyeliği (12 Ay)"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "",
+                "tr": ""
+              },
+              "duration": 12,
+              "unit": "month",
+              "price": 1200,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/a4fb22890996ff60.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "PLAN_3",
+              "kind": "treatment",
+              "title": {
+                "en": "Fitness Membership (3 Month)",
+                "tr": "Fitness Üyeliği (3 Ay)"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "",
+                "tr": ""
+              },
+              "duration": 3,
+              "unit": "month",
+              "price": 600,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/a4fb22890996ff60.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "PLAN_6",
+              "kind": "treatment",
+              "title": {
+                "en": "Fitness Membership (6 Month)",
+                "tr": "Fitness Üyeliği (6 Ay)"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "",
+                "tr": ""
+              },
+              "duration": 6,
+              "unit": "month",
+              "price": 900,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/a4fb22890996ff60.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "PT_SOLO",
+              "kind": "treatment",
+              "title": {
+                "en": "Personal Training",
+                "tr": "Kişiye Özel Antrenman"
+              },
+              "excerpt": {
+                "en": "",
+                "tr": ""
+              },
+              "description": {
+                "en": "Personal fitness training is one on one health and fitness private training. Primarily it’s to motivate, educate and coach the client to achieving results and attaining their personal fitness goals. Each training session is designed specifically for the client and their fitness goals, which makes it so effective. With Personal Training there’s guidance and reassurance that you are performing the exercises with correct technique, without the risk of injury. From one training session to the next, you will be challenged at the right intensity for you with the appropriate training methods to keep you progressing in every session. Each training session lasts an hour and you will be guided from warm up, all the way through to stretching.",
+                "tr": "Kişisel Antrenman, bire bir yapılan fitness özel antrenmanıdır. Öncelikle amaç, sonuç almak ve kişisel fitness hedeflerine ulaşılması için motive etmek, eğitmek ve koçluk etmektir. Her egzersiz seansı, kişi ve fitness hedefleri için özel olarak tasarlanmıştır, bu da onu çok etkili kılar. Kişisel Antrenman ile, egzersizleri yaralanma riski olmadan doğru teknikle uygularsınız. Her antrenman ilerlemenizi sürdürmenizi sağlayacak uygun egzersiz yöntemleri ile sizin için doğru yoğunlukta ve zorluk seviyesinde planlanır. Her egzersiz seansı bir saat sürer ve ısınmadan esnemeye kadar size rehberlik edilir."
+              },
+              "duration": 60,
+              "unit": "min",
+              "price": 60,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/0a0c7ee629e2fb9d.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ],
+          "addons": [],
+          "upgrades": []
+        }
+      ]
+    }
+  ]
+}

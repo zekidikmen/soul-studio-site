@@ -1,0 +1,717 @@
+{
+  "code": "MA",
+  "title": "MGallery Artisan Spa by Spa Soul",
+  "hotel": {
+    "en": "MGallery Artisan",
+    "tr": "MGallery Artisan"
+  },
+  "city": "İstanbul",
+  "district": "Beyoğlu",
+  "country": "Türkiye",
+  "address": "Gümüşsuyu, Omer Avni Mah, İnönü Cd. No 42",
+  "currency": "€",
+  "phone": "00 90 (212) 924 27 27",
+  "email": "ma@spasoul.com",
+  "booking": "https://my.spasoul.com/dl/54886d/s/a81f45/r/%C4%B0stanbul/s/f57387/r/MA/s/51429a/r/MA",
+  "review": null,
+  "page": "https://zekidikmen.github.io/soul-studio-site/en/ma/",
+  "cover": "https://zekidikmen.github.io/soul-studio-site/img/m/c97faaa2d31838ac.jpg",
+  "description": {
+    "en": "Your experience will be blissed up with exceptional spa treatments. Spa Soul at MGallery Artisan will take your self-indulgence moments to the next level.",
+    "tr": "Olağanüstü spa uygulamaları deneyiminize mutluluk katacak. MGallery Artisan'daki Spa Soul, kendinizi şımartma anlarınızı bir sonraki seviyeye taşır."
+  },
+  "etiquette": [
+    {
+      "title": {
+        "en": "What to wear",
+        "tr": "Nasıl giyinmeli"
+      },
+      "text": {
+        "en": "We will provide you with a robe and slippers to wear. During your treatment, it is recommended that you experience body services with disposable underwear. Our therapists are professionally trained and will ensure a level of comfort by appropriately draping areas of the body that are not a focus of the treatment.",
+        "tr": "SPA merkezimizi kullanacağınız zaman, rahat vakit geçirebilmeniz için size bornoz ve terlik sağlanacaktır. SPA seansı boyunca, tek kullanımlık iç çamaşır kullanmanızı tavsiye ederiz. Profesyonel terapistlerimiz uygulamanın odağı olmayan vücut bölgelerini örterek konforlu olmanızı sağlar."
+      }
+    },
+    {
+      "title": {
+        "en": "Storing valuables",
+        "tr": "Değerli eşyalar"
+      },
+      "text": {
+        "en": "Please kindly leave valuable personal items in the safe in your hotel room or one of the safe deposit boxes at the front desk of the hotel.",
+        "tr": "Değerli eşyalarınızı resepsiyonda bulunan emanet kasalarına veya otel odanızın kasasına bırakmanız rica olunur."
+      }
+    },
+    {
+      "title": {
+        "en": "Late arrival time",
+        "tr": "Geç kalma durumunda"
+      },
+      "text": {
+        "en": "We request you to check-in at least 15 minutes hour prior to your scheduled appointment; however, if you are unavoidably late, please call to notify the SPA receptionist when possible. Arriving late will simply limit the time for your treatment, as we must complete your service by the designated end-time in order to appropriately accommodate the next guest.",
+        "tr": "Randevu saatinizden en az 15 dakika önce gelmenizi rica ederiz. Geç kalacaksanız, resepsiyon görevlilerimize mümkün olduğu kadar erken haber veriniz. Belirtmek isteriz ki, SPA seansınız geç kalmanız durumunda daha kısa sürecektir. Çünkü; bir sonraki misafirimize gerekli hazırlıkları yapabilmek için hizmetinizi size ayrılan süre içinde tamamlamalıyız."
+      }
+    },
+    {
+      "title": {
+        "en": "Cell phone usage",
+        "tr": "Cep telefonu kullanımı"
+      },
+      "text": {
+        "en": "Quiet and calm are of the utmost importance to our guests that’s why we request you to turn off your cell phone and any other mobile device before entering the SPA.",
+        "tr": "SPA merkezimizde, sessiz ve huzurlu ortam misafirlerimiz için büyük önem taşımaktadır. Bunu dikkate alarak SPA merkezimize girmeden önce cep telefonunuzu kapatmanızı rica ederiz."
+      }
+    },
+    {
+      "title": {
+        "en": "Cancellation policy",
+        "tr": "Rezervasyon iptal koşulları"
+      },
+      "text": {
+        "en": "We request that all guests using the SPA extend a 6-hour cancellation notice. If less than 6-hours notice is given, the service price will be charged. \nGroup bookings have up to 48 hours to cancel appointments without penalty. 50% of the total treatment price is to be charged as a cancellation fee if the treatment is canceled between 48-6 hours before the scheduled time. Total treatment price is to be charged as a cancellation fee if the treatment is canceled less than 6 hours before the scheduled time.\nFor reservations made for package use, treatment will be deducted from the package if it is canceled less than 6 hours before the scheduled time.",
+        "tr": "SPA kullanım iptali bildirim süresi, hizmet başlamadan 6 saat öncedir. SPA kullanımına 6 saatten daha az süre kala iptalin bildirilmesi durumunda servisin ücreti tahsil edilecektir. \nGrup rezervasyonlarında rezervasyon saatinden 48 saat öncesine kadar ücretsiz iptal edilebilir. 48-6 saat arasında ücretin %50 si, 6 saatten az kala iptal edilmesi durumunda ise toplam tahsil edilir.\nPaket kullanımı için yapılan rezervasyonlarda, rezervasyon saatine 6 saatten az kala iptal edilmesi durumunda bakım paketten düşülür."
+      }
+    },
+    {
+      "title": {
+        "en": "Spa treatment selection",
+        "tr": "Spa bakımının seçimi"
+      },
+      "text": {
+        "en": "A full menu of SPA treatment offerings is listed on our menus. If you feel you would like assistance in choosing a service, we recommend calling the SPA directly and speaking to one of our knowledgeable staff members. A discussion with our reception staff can often help you decide between specific types of SPA treatment offerings depending on whether your goal is simply relaxation or more therapeutic in nature.",
+        "tr": "Tüm SPA bakım seçenekleri menümüzde yer almaktadır. Seçiminizi yaparken destek almak isterseniz, resepsiyonu arayıp çalışanlarımızdan rahatlıkla detaylı bilgi alabilirsiniz. Resepsiyon çalışanı ihtiyacınıza göre bir fikir vererek, doğru seçimi yapmanıza yardımcı olacaktır."
+      }
+    },
+    {
+      "title": {
+        "en": "Alcoholic beverages and spas",
+        "tr": "Spa ve alkollü içecek tüketimi"
+      },
+      "text": {
+        "en": "We recommend that you do not consume alcohol during or immediately befor/after your SPA treatments.",
+        "tr": "Bakım öncesinde ve sonrasında alkol kullanılmamalıdır."
+      }
+    },
+    {
+      "title": {
+        "en": "Special health considerations",
+        "tr": "Özel sağlık durumları"
+      },
+      "text": {
+        "en": "If you are pregnant or have health concerns, please be sure to notify our SPA staff when booking your treatment. Our reservationists can offer guidance as to which treatments will be the most beneficial and those that should be avoided due to physical limitations or sensitivity.",
+        "tr": "Sağlığınızla ilgili herhangi bir özel durum varsa veya hamile iseniz, lütfen bunu çalışanlarımıza haber verdiğinizden emin olunuz. Buna göre resepsiyon çalışanı özel durumunuza uygun, en faydalı uygulamayı tavsiye edip, SPA uygulama seçenekleri hakkında sizi bilgilendirecektir."
+      }
+    },
+    {
+      "title": {
+        "en": "Sauna or steam time",
+        "tr": "Sauna ve buhar odası"
+      },
+      "text": {
+        "en": "Sauna and steam are beneficial facets of the SPA experience, but should always be used in moderation. Proper usage time will vary, but there are some general guidelines that most individuals who are in good health can follow. If you are looking to warm and relax your muscles, we recommend 12-15 minutes in the dry heat of the sauna. The wet heat of the steam room is effective in opening pores and awakening the respiratory system; for this, we recommend a 5-6 minute timeframe. We require that swimming attire be worn in all co- ed sauna, and steam facilities.",
+        "tr": "Sauna ve buhar odası kullanım süresi kişiye göre değişebilir. Amacınız kaslarınızı ısıtıp yumuşatmak ise, saunanın kuru ısısında günlük olarak geçireceğiniz 12-15 dakika yeterlidir. Öte yandan, buhar odasının nemli ortamı nefes kanallarını ve cildin gözeneklerini açmak için idealdir. Bu amaçla 5-6 dakikalık kullanım yeterli olacaktır. Bay-Bayan sauna ve buhar odasında yüzme kıyafeti kullanmanız zorunludur."
+      }
+    },
+    {
+      "title": {
+        "en": "Personal preferences",
+        "tr": "Kişisel tercihleriniz"
+      },
+      "text": {
+        "en": "Whether it is the room temperature or the level of massage pressure, please express your preferences to our therapist.",
+        "tr": "Odadaki sıcaklık derecesi ve masaj baskı seviyesi ile ilgili özel tercihleriniz varsa, resepsiyon görevlilerine belirtmekten çekinmeyiniz."
+      }
+    },
+    {
+      "title": {
+        "en": "Payment",
+        "tr": "Ödeme şekli"
+      },
+      "text": {
+        "en": "We accept all major credit cards and cash. If you are a guest of the hotel, you may also charge SPA services to your room.",
+        "tr": "Yaygın kullanılan kredi kartlarını ve nakit ödemeleri kabul etmekteyiz. Eğer otelimizde misafir olarak konaklıyorsanız, SPA hizmetlerinin ücretleri oda hesabınıza eklenebilir."
+      }
+    },
+    {
+      "title": {
+        "en": "Age minimum",
+        "tr": "Minimum kullanım yaşı"
+      },
+      "text": {
+        "en": "Guests must be at least 18 years of age to experience a SPA treatment. ",
+        "tr": "SPA hizmetleri için gelen konuklarımız en az 18 yaşında olmalıdır. "
+      }
+    },
+    {
+      "title": {
+        "en": "Feedback",
+        "tr": "Geri bildirimleriniz"
+      },
+      "text": {
+        "en": "If your experience at our SPA has not met your expectations, we recommend you to speak with the SPA manager before leaving the facility. If unavailable, please feel free to call the SPA to discuss the issue at a later date",
+        "tr": "SPA deneyiminiz, beklentilerinizi karşılamadığı takdirde, tesisimizden ayrılmadan önce SPA müdürümüzü konu hakkında bilgilendirmenizi rica ederiz."
+      }
+    }
+  ],
+  "menu": [
+    {
+      "concept": "Feel Well",
+      "categories": [
+        {
+          "id": "C_TIM",
+          "title": {
+            "en": "Classic",
+            "tr": "Klasik"
+          },
+          "treatments": [
+            {
+              "id": "T_ARO2",
+              "kind": "treatment",
+              "title": {
+                "en": "Aromassage",
+                "tr": "Aromasaj"
+              },
+              "excerpt": {
+                "en": "Light-medium pressured massage with fragrant oils",
+                "tr": "Aromatik yağlarla uygulanan hafif ve orta baskılı masaj"
+              },
+              "description": {
+                "en": "Aromassage uses fragrant oils extracted from herbs, flowers, and fruits to naturally enhance the benefits of a soft massage.",
+                "tr": "Şifalı bitki, çiçek ve meyvelerden özütlenen, hoş kokulu yağlar içeren bu bakım, hafif baskılı masajınızı doğal etkenlerle güzelleştirir."
+              },
+              "duration": 50,
+              "unit": "min",
+              "price": 95,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/ab6086c3455f2b30.jpg",
+              "addons": [
+                "B_FC",
+                "S_4H",
+                "B_HC",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "A_MA"
+              ],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "T_MYO",
+              "kind": "treatment",
+              "title": {
+                "en": "Myotherapy",
+                "tr": "Myoterapi"
+              },
+              "excerpt": {
+                "en": "Combination of deep tissue and sports massage technique",
+                "tr": "Derin baskı ve sporcu masaj tekniklerinin kombinasyonuyla uygulanan masaj"
+              },
+              "description": {
+                "en": "This invigorating massage engages the deep tissue with sports massage technique that applies strong pressure to knead and wring tension away.",
+                "tr": "Yüksek baskılı ve yoğurucu dokunuşlarla gerilimi azaltan, canlandırıcı bir etki bırakan, spor masajı ve derin doku masajı kombinasyonlarından oluşmaktadır."
+              },
+              "duration": 60,
+              "unit": "min",
+              "price": 115,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/3e3714c9f089908c.jpg",
+              "addons": [
+                "B_FC",
+                "S_4H",
+                "B_HC",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "A_MA"
+              ],
+              "pairsWith": [],
+              "packages": [
+                {
+                  "id": "P5",
+                  "sessions": 5,
+                  "total": 460
+                },
+                {
+                  "id": "P10",
+                  "sessions": 10,
+                  "total": 805
+                },
+                {
+                  "id": "P20",
+                  "sessions": 20,
+                  "total": 1380
+                }
+              ]
+            },
+            {
+              "id": "T_STO",
+              "kind": "treatment",
+              "title": {
+                "en": "Stockholm",
+                "tr": "Stokholm"
+              },
+              "excerpt": {
+                "en": "Extend 45 min.",
+                "tr": "45 dk upgrade"
+              },
+              "description": {
+                "en": "This most widely known form of massage uses a combination of gentle and medium pressures of Swedish massages to ease tension and stress.",
+                "tr": "İsveç masaj tekniğinin orta ve hafif şiddetli baskılarıyla, kas ağrılarını ve gerginliği azaltmaya yönelik  uygulanan klasik bir masajdır"
+              },
+              "duration": 45,
+              "unit": "min",
+              "price": 80,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/21f857f1da0fb21d.jpg",
+              "addons": [
+                "B_FC",
+                "S_4H",
+                "B_HC",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "A_MA"
+              ],
+              "pairsWith": [],
+              "packages": [
+                {
+                  "id": "P5",
+                  "sessions": 5,
+                  "total": 320
+                },
+                {
+                  "id": "P10",
+                  "sessions": 10,
+                  "total": 560
+                },
+                {
+                  "id": "P20",
+                  "sessions": 20,
+                  "total": 960
+                }
+              ]
+            },
+            {
+              "id": "T_WEL2",
+              "kind": "treatment",
+              "title": {
+                "en": "Welcome",
+                "tr": "Hoş Geldin"
+              },
+              "excerpt": {
+                "en": "Combination of 4 different massage techniques",
+                "tr": "4 farklı masaj tekniğinin kombinasyonu"
+              },
+              "description": {
+                "en": "This is a special and quick welcome ritual for our guests. A treatment using a combination of different massage techniques with nutritious massage oils.",
+                "tr": "Misafirlerimize özel ve hızlı bir hoş geldin ritüeli, besleyici yağların ve çeşitli masaj tekniklerinin kombinasyonundan oluşmaktadır."
+              },
+              "duration": 40,
+              "unit": "min",
+              "price": 95,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/7a7ff1eff01e31f9.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ],
+          "addons": [],
+          "upgrades": [
+            {
+              "id": "A_MAR",
+              "kind": "upgrade",
+              "title": {
+                "en": "Argan & Shea",
+                "tr": "Argan & Shea "
+              },
+              "excerpt": {
+                "en": "Argan & Shea",
+                "tr": "Argan & Shea "
+              },
+              "description": {
+                "en": "Enhance your massage with Argan Based Shea upgrade for more hydration and regenerative effects.",
+                "tr": "Daha çok nemlendirme ve canlandırma etkisi için, masajınızda argan yağı bazlı kariteyi tercih edebilirsiniz."
+              },
+              "duration": 1,
+              "unit": "session",
+              "price": 30,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/538a5d576ea28b2e.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "A_MA",
+              "kind": "upgrade",
+              "title": {
+                "en": "Aromatic Spell",
+                "tr": "Aromatik Büyü"
+              },
+              "excerpt": {
+                "en": "Aromatic Spell",
+                "tr": "Aromatik Büyü"
+              },
+              "description": {
+                "en": "Upgrade your massage with fabulous fragrances of Charme D’orient.",
+                "tr": "Charme D’orient’in efsanevi kokuları ile masajınızı bir üst seviyeye çıkartın."
+              },
+              "duration": 1,
+              "unit": "session",
+              "price": 20,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/ef27642b771ec2e9.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ]
+        },
+        {
+          "id": "C_JOU",
+          "title": {
+            "en": "Journey",
+            "tr": "Yolculuk"
+          },
+          "treatments": [
+            {
+              "id": "J_BAL",
+              "kind": "treatment",
+              "title": {
+                "en": "Bali",
+                "tr": "Bali"
+              },
+              "excerpt": {
+                "en": "Medium pressured massage with acupressure techniques",
+                "tr": "Akupresyon tekniği kullanılan orta baskılı masaj"
+              },
+              "description": {
+                "en": "The traditional Balinese massage is an ancient healing therapy that originated on the island of Bali, Indonesia. It uses a combination of gentle stretches, acupressure, and aromatherapy to stimulate the flow of blood, oxygen, and \"qi\" (energy) around the body and bring a sense of well-being, calm and deep relaxation.",
+                "tr": "Geleneksel Bali masajı, Endonezya'nın Bali adasında ortaya çıkan eski bir şifa terapisidir. Vücut çevresinde kan, oksijen ve \"qi\" (enerji) akışını uyarmak ve esenlik, sakinlik ve derin bir rahatlama duygusu getirmek için hafif esnemeler, akupresür ve aroma terapi kombinasyonunu kullanır."
+              },
+              "duration": 60,
+              "unit": "min",
+              "price": 105,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/391ee7be74743a58.jpg",
+              "addons": [
+                "B_FC",
+                "S_4H",
+                "B_HC",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "A_MA"
+              ],
+              "pairsWith": [],
+              "packages": [
+                {
+                  "id": "P5",
+                  "sessions": 5,
+                  "total": 420
+                },
+                {
+                  "id": "P10",
+                  "sessions": 10,
+                  "total": 735
+                },
+                {
+                  "id": "P20",
+                  "sessions": 20,
+                  "total": 1260
+                }
+              ]
+            },
+            {
+              "id": "J_HAW",
+              "kind": "treatment",
+              "title": {
+                "en": "Hawaiian Lomi Lomi",
+                "tr": "Hawaiian Lomi Lomi"
+              },
+              "excerpt": {
+                "en": "Flowing strokes using connective movements of the lower arm and elbow",
+                "tr": "Art arda gelen el ve dirsek hareketleriyle uygulanan akıcı masaj"
+              },
+              "description": {
+                "en": "According to the ancient Hawaiian \"Huna\" philosophy, there are positive forces within every human being that can solve their problems. Lomi Lomi Massage is believed to help awaken these positive energies. It is a massage that kings and statesmen have before taking important decisions such as war. It activates the decision-making mechanisms with the relaxation it provides during the massage. The effects of the massage are felt within the next two to three days, not immediately after it is applied like other massages.\n",
+                "tr": "Eski Hawaii \"Huna\" felsefesine göre, her insanın içinde sorunlarını çözebilecek pozitif güçler vardır. Lomi Lomi Masajının bu pozitif enerjileri uyandırmaya yardımcı olduğuna inanılıyor. Kralların ve devlet adamlarının savaş gibi önemli kararları almadan önce yaptırdıkları bir masajdır. Masaj sırasında sağladığı rahatlama ile karar verme mekanizmalarını harekete geçirir. Masajın etkileri, diğer masajlar gibi uygulandıktan hemen sonra değil, sonraki 2-3 gün içinde hissedilir."
+              },
+              "duration": 60,
+              "unit": "min",
+              "price": 115,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/486319f2581a0b81.jpg",
+              "addons": [
+                "B_FC",
+                "S_4H",
+                "B_HC",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "A_MA"
+              ],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "J_TF_",
+              "kind": "treatment",
+              "title": {
+                "en": "Thai Fusion ",
+                "tr": "Thai Füzyon "
+              },
+              "excerpt": {
+                "en": "High pressured massage, centering on the respite of the shoulders, the hips, and the neck",
+                "tr": "Omuz, kalça ve boyun odaklı, yüksek baskılı masaj"
+              },
+              "description": {
+                "en": "A re-energizing treat for the body that combines vigorous forearm strokes that unhinge your muscles from deep-rooted stress through soothing acupressure points, the Thai Fusion Massage promises reinvigoration. Centering on the respite of the shoulders, the hips, and the neck, this dynamic treatment uses, which hold abundant benefits of Almond oil.",
+                "tr": "Yenilenme vadeden Thai Füzyon Masajı; akupunktur noktaları yoluyla, kaslarınızı derin ve köklü stresten kurtaran güçlü önkol vuruşlarını birleştiren, canlandırıcı bir bakımdır.Badem yağının faydalarını barındıran bu dinamik bakım, omuz, kalça ve boynu merkez alır."
+              },
+              "duration": 75,
+              "unit": "min",
+              "price": 125,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/911a8e4399918b58.jpg",
+              "addons": [
+                "B_FC",
+                "S_4H",
+                "B_HC",
+                "B_WRA",
+                "B_GOM"
+              ],
+              "upgrades": [
+                "A_MAR",
+                "A_MA"
+              ],
+              "pairsWith": [],
+              "packages": []
+            }
+          ],
+          "addons": [],
+          "upgrades": []
+        },
+        {
+          "id": "C_RIT",
+          "title": {
+            "en": "Rituals",
+            "tr": "Ritüeller"
+          },
+          "treatments": [
+            {
+              "id": "S_AR",
+              "kind": "treatment",
+              "title": {
+                "en": "Argan Release",
+                "tr": "Argan Rahatlığı"
+              },
+              "excerpt": {
+                "en": "Pink crystals and argan shell scrub, a mineral clay mask, and hydrating with shea butter",
+                "tr": "Pembe kristaller ve argan kabuğu peelingi, mineral kil maskesi ve yoğun nemlendirici etkili karita yağı"
+              },
+              "description": {
+                "en": "A getaway into the heart of Morocco this treatment combines pink crystals & argan shell scrub, a mineral clay mask, and a massage with argan butter that will leave the skin soft with subtle scents.",
+                "tr": "Fas’ın kalbine kısa bir seyahat... Bu spa ritüeli; pembe kristaller & argan kabuğu peelingini, mineral kil maskesi ve hafif kokularla cildi yumuşatan argan yağı masajıyla birleştirir."
+              },
+              "duration": 90,
+              "unit": "min",
+              "price": 180,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/932cedb0b6fdcffe.jpg",
+              "addons": [
+                "S_4H"
+              ],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "S_SR",
+              "kind": "treatment",
+              "title": {
+                "en": "Stress Relief",
+                "tr": "Anti-Stres Ritüeli"
+              },
+              "excerpt": {
+                "en": "Combination of drainage and curative massage techniques",
+                "tr": "Drenaj ve iyileştirici masaj tekniklerinin kombinasyonu"
+              },
+              "description": {
+                "en": "The manipulation techniques of drainage and curative massage will stimulate circulation and further assist you to optimal health and wellbeing.",
+                "tr": "Drenaj ve iyileştirici masajın manipülasyon teknikleri, dolaşımı uyararak sağlık ve zindelik sağlar.\n"
+              },
+              "duration": 90,
+              "unit": "min",
+              "price": 180,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/74c4cf2435230053.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ],
+          "addons": [
+            {
+              "id": "S_4H",
+              "kind": "addon",
+              "title": {
+                "en": "Four Hands Synchronized",
+                "tr": "Dört El"
+              },
+              "excerpt": {
+                "en": "Four Hands Synced",
+                "tr": "Dört El"
+              },
+              "description": {
+                "en": "Enjoy your treatment with the privilege of 4-hands...",
+                "tr": "Masajınızı tandem 4 el bakımı ile zenginleştirin..."
+              },
+              "duration": 60,
+              "unit": "min",
+              "price": 235,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/932cedb0b6fdcffe.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ],
+          "upgrades": []
+        }
+      ]
+    },
+    {
+      "concept": "Look Well",
+      "categories": [
+        {
+          "id": "C_BOD",
+          "title": {
+            "en": "Body",
+            "tr": "Vücut"
+          },
+          "treatments": [],
+          "addons": [
+            {
+              "id": "B_GOM",
+              "kind": "addon",
+              "title": {
+                "en": "Body Peelings",
+                "tr": "Vücut Peelingleri"
+              },
+              "excerpt": {
+                "en": "Peeling",
+                "tr": "Peeling"
+              },
+              "description": {
+                "en": "Peeling are ancient treatments that smoothen and silken the skin You can learn about the seasonal peeling options from the spa reception.",
+                "tr": "Peeling, cildi pürüzsüzleştirerek ipeksi hale getiren antik bir bakımdır. Döneme özgü peeling seçeneklerini spa resepsiyonundan öğrenebilirsiniz."
+              },
+              "duration": 30,
+              "unit": "min",
+              "price": 55,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/40105bb9dd8ac6b8.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "B_WRA",
+              "kind": "addon",
+              "title": {
+                "en": "Body Wraps",
+                "tr": "Vücut Maskeleri"
+              },
+              "excerpt": {
+                "en": "Wrap",
+                "tr": "Maske"
+              },
+              "description": {
+                "en": "You can learn about the seasonal mask options from the spa reception.",
+                "tr": "Döneme özgü maske seçeneklerini spa resepsiyonundan öğrenebilirsiniz."
+              },
+              "duration": 30,
+              "unit": "min",
+              "price": 55,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/178823f7d4ba1cf4.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "B_FC",
+              "kind": "addon",
+              "title": {
+                "en": "Foot Care",
+                "tr": "Ayak Bakımı"
+              },
+              "excerpt": {
+                "en": "Foot Care",
+                "tr": "Ayak Bakımı"
+              },
+              "description": {
+                "en": "Foot Care begins with the removal of dead cells from the skin's surface by scrub and continues with pressure applied to the feet with specific techniques stimulating reflex points for overall wellbeing.",
+                "tr": "Ayak Bakımı, scrub ile ölü hücrelerin cilt yüzeyinden uzaklaştırılmasıyla başlar ve refleks noktalarını uyaran özel tekniklerle uygulanan masajla devam eder."
+              },
+              "duration": 30,
+              "unit": "min",
+              "price": 60,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/101169f555143f39.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            },
+            {
+              "id": "B_HC",
+              "kind": "addon",
+              "title": {
+                "en": "Hand Care",
+                "tr": "El Bakımı"
+              },
+              "excerpt": {
+                "en": "Hand Care",
+                "tr": "El Bakımı"
+              },
+              "description": {
+                "en": "Hand care begins with removing dead skin cells with a soft peeling and continues with a relaxing massage, which improves finger and wrist range of motion and enhanced circulation. ",
+                "tr": "El bakımı, yumuşak bir peeling ile ölü deri hücrelerden arındırmayla başlar ve parmakların ve bileklerin hareket kabiliyetini ve kan dolaşımını artıran rahatlatıcı bir masajla devam eder."
+              },
+              "duration": 30,
+              "unit": "min",
+              "price": 60,
+              "priceOnRequest": false,
+              "image": "https://zekidikmen.github.io/soul-studio-site/img/m/192170f88add7a20.jpg",
+              "addons": [],
+              "upgrades": [],
+              "pairsWith": [],
+              "packages": []
+            }
+          ],
+          "upgrades": []
+        }
+      ]
+    }
+  ]
+}
